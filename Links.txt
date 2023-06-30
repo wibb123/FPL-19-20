@@ -1,0 +1,11 @@
+https://fantasy.premierleague.com/api/entry/286334/history/
+https://fantasy.premierleague.com/api/bootstrap-static/
+https://fantasy.premierleague.com/api/element-summary/460/
+https://fantasy.premierleague.com/api/me/
+https://fantasy.premierleague.com/api/entry/286334/event/46/picks/
+
+strength 5 - 1
+strength 4 - 1.5
+strength 3 - 2
+strength 2 - 2.25
+
